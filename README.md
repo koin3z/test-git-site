@@ -3,4 +3,4 @@ test用のサイト
 
 
 リンク
-https://koin3z.github.io/test-site/
+https://koin3z.github.io/test-git-site
